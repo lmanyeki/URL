@@ -43,3 +43,17 @@ To fulfill your request, the application server might need to fetch or store dat
 It interacts with the database, where data is stored, retrieved, and managed, ensuring that your search query is successfully executed.
 
 The HTTP response makes its way back through the channels, reaching your browser which then renders the webpage known as Google.
+
+### Components of a URL
+
+A Uniform Resource Locater defines the location of unique resources on the internet.
+
+Web address + Protocol = URL
+
+e.g *https://developer.mozilla.org/en-US/*
+
+- Protocol - *https*, which is the secure version of HTTP.
+
+- Domain name - *developer.mozilla.org*, which represents the top-level location of the server you're connecting to. in the above, the web address is equal to the domain name.
+
+- Path - */en-US/*, the path to the resource on the server that you're accessing.
